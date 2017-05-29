@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="2400"
+   viewBox="0 0 1919.9999 2400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="splash.svg"
+   inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/images/l1-ladders.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-73.252874"
+     inkscape:cy="161.33809"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="775"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1000,1347.638)">
+    <path
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1231.7515,-866.38673 c -6.017,0 -10.8603,4.84331 -10.8603,10.86033 0,6.01701 4.8433,10.86031 10.8603,10.86031 l 273.938,0 c 6.017,0 10.8629,-4.8433 10.8629,-10.86031 0,-6.01702 -4.8459,-10.86033 -10.8629,-10.86033 l -273.938,0 z m 102.8599,3.35874 c 3.8458,0 6.126,2.50316 6.126,6.61306 l 0,1.88143 c 0,4.05707 -2.2802,6.50869 -6.126,6.50869 -3.8669,0 -6.1287,-2.45162 -6.1287,-6.50869 l 0,-1.88143 c 0,-4.1099 2.304,-6.61306 6.1287,-6.61306 z m 61.8701,0 c 1.8172,0 3.4125,0.57021 4.4479,1.59505 0.6762,0.67618 1.108,1.50977 1.108,2.14369 0,0.70787 -0.4855,1.1856 -1.1722,1.1856 -0.5071,0 -0.8547,-0.20292 -1.3301,-0.77345 -0.7501,-1.14105 -1.6698,-1.69943 -2.8636,-1.69943 -2.1765,0 -3.3587,1.43491 -3.3587,4.09737 l 0,1.95636 c 0,2.63076 1.2249,4.11076 3.3908,4.11076 1.7327,0 2.893,-1.03739 2.893,-2.57993 l 0,-0.90726 -1.9215,0 c -0.7819,0 -1.2365,-0.39179 -1.2365,-1.07853 0,-0.68676 0.4441,-1.06784 1.2365,-1.06784 l 2.885,0 c 1.215,0 1.753,0.54021 1.753,1.72351 l 0,1.16151 c 0,3.02168 -2.3462,5.13577 -5.7166,5.13577 -3.8563,0 -6.1474,-2.43021 -6.1474,-6.48729 l 0,-2.08214 c 0,-3.99369 2.2605,-6.43375 6.0324,-6.43375 z m -48.2827,0.15789 c 1.1939,0 1.8259,0.55047 2.2802,1.90283 l 3.6344,10.41605 c 0.1479,0.45432 0.2221,0.80413 0.2221,1.09995 0,0.7607 -0.538,1.24715 -1.3515,1.24715 -0.7713,0 -1.2161,-0.40374 -1.5014,-1.38631 l -0.8136,-2.44879 -5.0608,0 -0.8029,2.44879 c -0.2958,0.99313 -0.7166,1.38631 -1.4773,1.38631 -0.7818,0 -1.3221,-0.47786 -1.3221,-1.1963 0,-0.28525 0.075,-0.61196 0.2543,-1.1508 l 3.6344,-10.41605 c 0.4543,-1.34179 1.0998,-1.90283 2.3042,-1.90283 z m -28.3685,0.0107 c 0.8981,0 1.4265,0.56953 1.4265,1.54154 l 0,10.55522 5.0073,0 c 0.7501,0 1.2792,0.49658 1.2792,1.21503 0,0.729 -0.5291,1.21503 -1.2792,1.21503 l -5.9601,0 c -1.2784,0 -1.9001,-0.60232 -1.9001,-1.8279 l 0,-11.15738 c 0,-0.97201 0.5178,-1.54154 1.4264,-1.54154 z m 52.0642,0 c 0.8981,0 1.4265,0.56953 1.4265,1.54154 l 0,11.54812 c 0,0.972 -0.5177,1.54421 -1.4158,1.54421 -0.9086,0 -1.4371,-0.57221 -1.4371,-1.54421 l 0,-11.54812 c 0,-0.97201 0.5178,-1.54154 1.4264,-1.54154 z m 5.9815,0 c 0.6867,0 1.0891,0.39163 1.6807,1.26855 l 5.5345,8.43027 0.1178,0 0,-8.18672 c 0,-0.95088 0.4849,-1.5121 1.3301,-1.5121 0.8452,0 1.3515,0.5718 1.3515,1.5121 l 0,11.46247 c 0,1.07767 -0.4857,1.6593 -1.3943,1.6593 -0.6868,0 -1.0868,-0.28543 -1.7102,-1.22574 l -5.5907,-8.52661 -0.1151,0 0,8.24026 c 0,0.95087 -0.4875,1.51209 -1.3328,1.51209 -0.8452,0 -1.3408,-0.57178 -1.3408,-1.51209 l 0,-11.39825 c 0,-1.1305 0.4973,-1.72353 1.4693,-1.72353 z m -19.5983,0.10706 3.3373,0 c 4.2367,0 6.4444,2.46027 6.4444,7.1724 0,4.73327 -2.2289,7.24736 -6.4444,7.24736 l -3.3373,0 c -1.2784,0 -1.9029,-0.60232 -1.9029,-1.8279 l 0,-10.76664 c 0,-1.22558 0.6245,-1.82522 1.9029,-1.82522 z m -23.6663,2.11157 c -2.0391,0 -3.2758,1.58437 -3.2758,4.21514 l 0,1.88141 c 0,2.59907 1.2367,4.13218 3.2758,4.13218 2.0391,0 3.2757,-1.53311 3.2757,-4.13218 l 0,-1.88141 c 0,-2.63077 -1.2366,-4.21514 -3.2757,-4.21514 z m 24.6163,0.21143 0,9.76305 2.0501,0 c 2.6624,0 3.8886,-1.54274 3.8886,-4.87082 0,-3.27525 -1.2896,-4.89223 -3.8886,-4.89223 l -2.0501,0 z m -11.1466,0.43356 -1.8386,5.8316 3.8029,0 -1.8278,-5.8316 -0.1365,0 z m 57.9841,8.60957 c 0.9086,0 1.6459,0.73983 1.6459,1.63787 0,0.90862 -0.7373,1.6486 -1.6459,1.6486 -0.8981,0 -1.6379,-0.73998 -1.6379,-1.6486 0,-0.89804 0.7398,-1.63787 1.6379,-1.63787 z m 5.663,0 c 0.9086,0 1.6459,0.73983 1.6459,1.63787 0,0.90862 -0.7373,1.6486 -1.6459,1.6486 -0.8981,0 -1.6379,-0.73998 -1.6379,-1.6486 0,-0.89804 0.7398,-1.63787 1.6379,-1.63787 z m 5.663,0 c 0.9086,0 1.6459,0.73983 1.6459,1.63787 0,0.90862 -0.7373,1.6486 -1.6459,1.6486 -0.8981,0 -1.6379,-0.73998 -1.6379,-1.6486 0,-0.89804 0.7398,-1.63787 1.6379,-1.63787 z"
+       id="rect4136"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/LocalCopy/PhaserProject/assets/images/loading.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1231.7508,-940.00221 c -11.3655,0 -20.5156,9.1501 -20.5156,20.51557 0,11.36547 9.1501,20.51558 20.5156,20.51558 l 273.9391,0 c 11.3655,0 20.5156,-9.15011 20.5156,-20.51558 0,-11.36547 -9.1501,-20.51557 -20.5156,-20.51557 l -273.9391,0 z m 0,9.65393 273.9391,0 c 6.0171,0 10.8617,4.84463 10.8617,10.86164 0,6.01701 -4.8446,10.86165 -10.8617,10.86165 l -273.9391,0 c -6.017,0 -10.8617,-4.84464 -10.8617,-10.86165 0,-6.01701 4.8447,-10.86164 10.8617,-10.86164 z"
+       id="rect4142"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/LocalCopy/PhaserProject/assets/images/loadingbg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4208"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/LocalCopy/PhaserProject/assets/images/studio.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.297402,0,0,1.297402,1105.0073,-1494.9767)">
+      <g
+         transform="matrix(0.71402085,0,0,0.71402085,-34.845727,107.13682)"
+         id="g4192">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:101.68960571px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.35812569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="204.34103"
+           y="324.41806"
+           id="text4165"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="204.34103"
+             y="324.41806"
+             id="tspan4169"
+             style="stroke-width:4.35812569">MELT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:101.68960571px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.35812569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="163.30273"
+           y="415.80118"
+           id="text4173"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4175"
+             x="163.30273"
+             y="415.80118"
+             style="stroke-width:4.35812569">GAMES</tspan></text>
+      </g>
+      <g
+         id="g4198"
+         transform="matrix(0.71402085,0,0,0.71402085,-32.528695,104.05323)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4200"
+           y="324.41806"
+           x="204.34103"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:101.68960571px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.35812569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="stroke-width:4.35812569"
+             id="tspan4202"
+             y="324.41806"
+             x="204.34103"
+             sodipodi:role="line">MELT</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4204"
+           y="415.80118"
+           x="163.30273"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:101.68960571px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.35812569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="stroke-width:4.35812569"
+             y="415.80118"
+             x="163.30273"
+             id="tspan4206"
+             sodipodi:role="line">GAMES</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4292"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/LocalCopy/PhaserProject/assets/images/title.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(1129.829,-1452.9896)">
+      <g
+         transform="translate(-36.498821,0)"
+         id="g4280">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4244"
+           y="708.37061"
+           x="129.13275"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="stroke-width:4.03724575"
+             id="tspan4246"
+             y="708.37061"
+             x="129.13275"
+             sodipodi:role="line">VERMILLION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="132.13889"
+           y="704.36993"
+           id="text4254"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="132.13889"
+             y="704.36993"
+             id="tspan4256"
+             style="stroke-width:4.03724575">VERMILLION</tspan></text>
+      </g>
+      <g
+         id="g4286">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4248"
+           y="793.02539"
+           x="91.11602"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="stroke-width:4.03724575"
+             y="793.02539"
+             x="91.11602"
+             id="tspan4250"
+             sodipodi:role="line">SANDS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="94.122147"
+           y="789.02472"
+           id="text4258"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4260"
+             x="94.122147"
+             y="789.02472"
+             style="stroke-width:4.03724575">SANDS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4344"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/LocalCopy/PhaserProject/assets/images/gameover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(1129.829,-1452.9896)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4308"
+         y="904.48718"
+         x="92.633934"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:4.03724575"
+           id="tspan4310"
+           y="904.48718"
+           x="92.633934"
+           sodipodi:role="line">YOU WIN!!!</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="95.640068"
+         y="900.48651"
+         id="text4312"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="95.640068"
+           y="900.48651"
+           id="tspan4314"
+           style="stroke-width:4.03724575">YOU WIN!!!</tspan></text>
+    </g>
+    <g
+       id="g4350"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/LocalCopy/PhaserProject/assets/images/gameover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(1129.829,-1452.9896)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4318"
+         y="989.14197"
+         x="91.11602"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:4.03724575"
+           y="989.14197"
+           x="91.11602"
+           id="tspan4320"
+           sodipodi:role="line">GAME OVER :(</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="94.122147"
+         y="985.1413"
+         id="text4322"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4324"
+           x="94.122147"
+           y="985.1413"
+           style="stroke-width:4.03724575">GAME OVER :(</tspan></text>
+    </g>
+    <g
+       id="g4468"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/images/credits.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(1184.1002,-1134.7627)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="38.362675"
+         y="783.61029"
+         id="text4456"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="38.362675"
+           y="783.61029"
+           id="tspan4458"
+           style="stroke-width:4.03724575">THANK YOU! &lt;3</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4460"
+         y="779.60962"
+         x="41.368809"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:94.20240784px;line-height:125%;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:#800000;stroke-width:4.03724575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:4.03724575"
+           id="tspan4462"
+           y="779.60962"
+           x="41.368809"
+           sodipodi:role="line">THANK YOU! &lt;3</tspan></text>
+    </g>
+    <g
+       id="g4572"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/images/missionItem.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="rect4544"
+         transform="translate(999.99994,-1347.638)"
+         d="M 265.26758 1227.2656 C 259.8825 1227.2656 255.54688 1231.6012 255.54688 1236.9863 L 255.54688 1241.8477 C 255.54688 1243.4433 255.93553 1244.9417 256.61133 1246.2676 C 252.28702 1249.1259 249.44141 1254.0256 249.44141 1259.6191 L 249.44141 1267.6191 C 249.44141 1276.4831 256.57741 1283.6191 265.44141 1283.6191 C 274.30541 1283.6191 281.44141 1276.4831 281.44141 1267.6191 L 281.44141 1259.6191 C 281.44141 1254.0256 278.59579 1249.1259 274.27148 1246.2676 C 274.94729 1244.9417 275.33594 1243.4433 275.33594 1241.8477 L 275.33594 1236.9863 C 275.33594 1231.6012 271.00031 1227.2656 265.61523 1227.2656 L 265.26758 1227.2656 z "
+         style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1265.3031,-114.70328 c -4.2843,0 -7.7337,3.46328 -7.7337,7.76491 l 0,3.88329 c 0,1.27457 0.3092,2.47149 0.8469,3.530626 -3.4404,2.283214 -5.7043,6.197102 -5.7043,10.665198 l 0,6.390412 c 0,7.080577 5.6773,12.780825 12.7294,12.780825 7.052,0 12.7293,-5.700248 12.7293,-12.780825 l 0,-6.390412 c 0,-4.468096 -2.2639,-8.381984 -5.7043,-10.665198 0.5377,-1.059136 0.8469,-2.256056 0.8469,-3.530626 l 0,-3.88329 c 0,-4.30163 -3.4494,-7.76491 -7.7337,-7.76491 l -0.2765,0 z"
+         id="path4551" />
+      <g
+         transform="translate(-0.21026133,0)"
+         id="g4563">
+        <circle
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4553"
+           cx="1262.7993"
+           cy="-106.83823"
+           r="2.0814261" />
+        <circle
+           r="2.0814261"
+           cy="-106.83823"
+           cx="1268.5039"
+           id="circle4555"
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(-0.28730582,0)"
+         id="g4567">
+        <rect
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4557"
+           width="3.0835943"
+           height="14.184534"
+           x="-92.191154"
+           y="-1272.8209"
+           ry="2.1976037"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           ry="2.1976037"
+           y="-1272.8209"
+           x="-86.332336"
+           height="14.184534"
+           width="3.0835943"
+           id="rect4559"
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4561"
+           width="3.0835943"
+           height="14.184534"
+           x="-80.473495"
+           y="-1272.8209"
+           ry="2.1976037"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 999.99994,1020.362 0,14.0664 c 4.25696,2.3246 10.08576,7.3234 16.80666,17.9336 l 15.1933,0 0,-32 -31.99996,0 z"
+       id="rect4542"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4731"
+       transform="translate(-32.000061,-32)"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4633"
+         width="4"
+         height="32"
+         x="1058"
+         y="1020.362" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         id="g4657">
+        <rect
+           style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4631"
+           width="4"
+           height="32"
+           x="1034"
+           y="1020.362" />
+        <rect
+           y="1020.362"
+           x="1034.848"
+           height="32"
+           width="2.304023"
+           id="rect4651"
+           style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         y="1020.362"
+         x="1058.848"
+         height="32"
+         width="2.304023"
+         id="rect4655"
+         style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         transform="matrix(0,-1,0.68018722,0,343.07288,2064.362)"
+         id="g4661">
+        <rect
+           y="1020.362"
+           x="1034"
+           height="32"
+           width="4"
+           id="rect4663"
+           style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4665"
+           width="2.304023"
+           height="32"
+           x="1034.848"
+           y="1020.362" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         id="g4667"
+         transform="matrix(0,-1,0.68018722,0,343.07288,2080.362)">
+        <rect
+           style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4669"
+           width="4"
+           height="32"
+           x="1034"
+           y="1020.362" />
+        <rect
+           y="1020.362"
+           x="1034.848"
+           height="32"
+           width="2.304023"
+           id="rect4671"
+           style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <rect
+       y="1020.362"
+       x="1096"
+       height="32.000011"
+       width="32"
+       id="rect4717"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4762"
+       width="32"
+       height="32.000011"
+       x="1032"
+       y="1020.362" />
+    <rect
+       y="1020.362"
+       x="1064"
+       height="32.000011"
+       width="32"
+       id="rect4746"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4558"
+       width="32"
+       height="32.000011"
+       x="1128"
+       y="1020.3619" />
+    <rect
+       y="1020.362"
+       x="1160"
+       height="32.000011"
+       width="32"
+       id="rect4592"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4609"
+       width="32"
+       height="32.000011"
+       x="1192"
+       y="1020.362" />
+    <path
+       id="path4661"
+       d="m 1255.9999,1020.362 0,14.0664 c -4.257,2.3246 -10.0857,7.3234 -16.8066,17.9336 l -15.1934,0 0,-32 32,0 z"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4709"
+       cx="1044.6455"
+       cy="1035.4921"
+       r="1.079258"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="2.3126957"
+       cy="1035.705"
+       cx="1071.6664"
+       id="circle4711"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4713"
+       cx="1051.3134"
+       cy="1044.0309"
+       r="3.8544929"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="1.079258"
+       cy="1033.5557"
+       cx="1025.5264"
+       id="circle4715"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4717"
+       cx="1114.6675"
+       cy="1027.222"
+       r="1.2334375"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="2.1585159"
+       cy="1025.906"
+       cx="1057.0516"
+       id="circle4719"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="2.4668753"
+       cy="1042.9011"
+       cx="1100.5929"
+       id="circle4723"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4725"
+       cx="1140.6007"
+       cy="1032.819"
+       r="2.1585159"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4727"
+       cx="1041.1155"
+       cy="1027.6202"
+       r="1.079258"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="1.079258"
+       cy="1036.1069"
+       cx="1109.6194"
+       id="circle4729"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="1.079258"
+       cy="1032.7542"
+       cx="1088.8005"
+       id="circle4731"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4733"
+       cx="1145.3728"
+       cy="1035.5276"
+       r="1.079258"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="1.079258"
+       cy="1044.5712"
+       cx="1190.6091"
+       id="circle4735"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4737"
+       cx="1203.7552"
+       cy="1028.7802"
+       r="3.7003131"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="3.8544929"
+       cy="1042.9196"
+       cx="1236.4507"
+       id="circle4739"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4741"
+       cx="1133.1796"
+       cy="1046.8497"
+       r="1.079258"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="1.2334375"
+       cy="1044.6206"
+       cx="1197.6847"
+       id="circle4743"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4745"
+       cx="1151.6364"
+       cy="1046.0984"
+       r="2.1585159"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4747"
+       cx="1175.6554"
+       cy="1044.9407"
+       r="2.4668753"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="2.1585159"
+       cy="1035.6383"
+       cx="1168.6892"
+       id="circle4749"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="1.079258"
+       cy="1049.0245"
+       cx="1076.9944"
+       id="circle4751"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4753"
+       cx="1134.3264"
+       cy="1047.8309"
+       r="1.079258"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4755"
+       cx="1086.1113"
+       cy="1044.634"
+       r="1.079258"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="1.079258"
+       cy="1039.2448"
+       cx="1230.3357"
+       id="circle4757"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4852"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="rect4783"
+         d="m 1079.7087,966.15425 c -2.3638,0 -4.2662,1.90247 -4.2662,4.26621 l 0,4.65432 0,19.7821 -4.0734,0 0,-16.87326 c 0,-2.04128 -1.6425,-3.68394 -3.6839,-3.68394 -2.0414,0 -3.6852,1.64266 -3.6852,3.68394 l 0,20.55846 0,1.45802 c 0,1.2334 0.9925,2.2259 2.2258,2.2259 l 9.2167,0 0,6.2071 0,11.9289 8.5336,0 0,-11.9289 0,-1.7456 7.4441,0 c 0.9866,0 1.8528,-0.4621 2.4248,-1.1719 0.6137,-0.6576 0.9913,-1.5386 0.9913,-2.5133 l 0,-14.35127 c 0,-2.04141 -1.6437,-3.6852 -3.6851,-3.6852 l -0.1941,0 c -2.0414,0 -3.684,1.64379 -3.684,3.6852 l 0,10.47206 -3.297,0 0,-24.04831 0,-4.65432 c 0,-2.36374 -1.9037,-4.26621 -4.2674,-4.26621 z"
+         style="opacity:1;fill:#006400;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#9acd32;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1080.8723,964.89638 c -2.3637,0 -4.2662,1.90247 -4.2662,4.26621 l 0,4.65432 0,19.7821 -4.0734,0 0,-16.87326 c 0,-2.04134 -1.6425,-3.68394 -3.6839,-3.68394 -2.0414,0 -3.6852,1.6426 -3.6852,3.68394 l 0,20.55846 0,1.45806 c 0,1.23335 0.9925,2.22583 2.2258,2.22583 l 9.2167,0 0,6.2071 0,13.1868 8.5336,0 0,-13.1868 0,-1.7456 7.4441,0 c 0.9866,0 1.8528,-0.4621 2.4248,-1.1719 0.6137,-0.6576 0.9913,-1.5386 0.9913,-2.5133 l 0,-14.35124 c 0,-2.04141 -1.6438,-3.6852 -3.6852,-3.6852 l -0.194,0 c -2.0415,0 -3.684,1.64379 -3.684,3.6852 l 0,10.47206 -3.297,0 0,-24.04831 0,-4.65432 c 0,-2.36374 -1.9037,-4.26621 -4.2674,-4.26621 z"
+         id="path4799" />
+    </g>
+    <g
+       transform="matrix(-0.29040956,0,0,0.29040956,1419.9493,728.31188)"
+       id="g4824"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#006400;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 73.697266,2267.0977 c -3.758285,0 -6.783204,3.0249 -6.783204,6.7832 l 0,7.4003 0,31.4532 -6.476562,0 0,-26.8282 c 0,-3.2456 -2.61163,-5.8574 -5.857422,-5.8574 -3.245791,0 -5.859375,2.6118 -5.859375,5.8574 l 0,32.6876 0,2.3183 c 0,1.961 1.578064,3.5391 3.539063,3.5391 l 14.654296,0 0,9.8691 0,18.9668 13.56836,0 0,-18.9668 0,-2.7754 11.835937,0 c 1.568708,0 2.945989,-0.7348 3.855469,-1.8633 0.975707,-1.0456 1.576172,-2.4464 1.576172,-3.9961 l 0,-22.8183 c 0,-3.2458 -2.613583,-5.8594 -5.859375,-5.8594 l -0.308594,0 c -3.245792,0 -5.857422,2.6136 -5.857422,5.8594 l 0,16.6504 -5.242187,0 0,-38.2364 0,-7.4003 c 0,-3.7583 -3.026872,-6.7832 -6.785156,-6.7832 z"
+         transform="translate(999.99994,-1347.638)"
+         id="path4826" />
+      <path
+         id="path4828"
+         d="m 1075.5474,917.4597 c -3.7583,0 -6.7832,3.0249 -6.7832,6.7832 l 0,7.4003 0,31.4532 -6.4766,0 0,-26.8282 c 0,-3.2457 -2.6116,-5.8574 -5.8574,-5.8574 -3.2458,0 -5.8594,2.6117 -5.8594,5.8574 l 0,32.6876 0,2.3183 c 0,1.961 1.5781,3.5391 3.5391,3.5391 l 14.6543,0 0,9.8691 0,20.9668 13.5683,0 0,-20.9668 0,-2.7754 11.836,0 c 1.5687,0 2.9459,-0.7348 3.8554,-1.8633 0.9757,-1.0456 1.5762,-2.4464 1.5762,-3.9961 l 0,-22.8183 c 0,-3.2458 -2.6136,-5.8594 -5.8594,-5.8594 l -0.3086,0 c -3.2458,0 -5.8574,2.6136 -5.8574,5.8594 l 0,16.6504 -5.2422,0 0,-38.2364 0,-7.4003 c 0,-3.7583 -3.0269,-6.7832 -6.7851,-6.7832 z"
+         style="opacity:1;fill:#9acd32;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4879"
+       transform="translate(0,6.3864)"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4868"
+         d="m 1151.3975,1007.8702 a 3.0526028,3.0526028 0 0 0 -3.0527,3.0527 3.0526028,3.0526028 0 0 0 3.0527,3.0527 3.0526028,3.0526028 0 0 0 2.0567,-0.8008 1.8533659,1.8533659 0 0 0 1.3476,0.5821 1.8533659,1.8533659 0 0 0 1.8516,-1.8535 1.8533659,1.8533659 0 0 0 -1.8516,-1.8536 1.8533659,1.8533659 0 0 0 -0.4629,0.061 3.0526028,3.0526028 0 0 0 -2.9414,-2.2402 z"
+         style="opacity:1;fill:#a0522d;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#f4a460;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1151.8337,1007.3436 a 3.0526028,3.0526028 0 0 0 -3.0528,3.0527 3.0526028,3.0526028 0 0 0 3.0528,3.0527 3.0526028,3.0526028 0 0 0 2.0566,-0.8008 1.8533659,1.8533659 0 0 0 1.3477,0.5821 1.8533659,1.8533659 0 0 0 1.8515,-1.8535 1.8533659,1.8533659 0 0 0 -1.8515,-1.8536 1.8533659,1.8533659 0 0 0 -0.4629,0.061 3.0526028,3.0526028 0 0 0 -2.9414,-2.2402 z"
+         id="path4877" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4999"
+       d="m 999.99994,924.362 0,14.0664 c 4.25696,2.3246 10.08576,7.3234 16.80666,17.9336 l 15.1933,0 0,-32 -31.99996,0 z"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       transform="translate(-32.000061,-128.00001)"
+       id="g5001">
+      <rect
+         y="1020.362"
+         x="1058"
+         height="32"
+         width="4"
+         id="rect5003"
+         style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g5005"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           y="1020.362"
+           x="1034"
+           height="32"
+           width="4"
+           id="rect5007"
+           style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5009"
+           width="2.304023"
+           height="32"
+           x="1034.848"
+           y="1020.362" />
+      </g>
+      <rect
+         style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5011"
+         width="2.304023"
+         height="32"
+         x="1058.848"
+         y="1020.362"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g5013"
+         transform="matrix(0,-1,0.68018722,0,343.07288,2064.362)"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5015"
+           width="4"
+           height="32"
+           x="1034"
+           y="1020.362" />
+        <rect
+           y="1020.362"
+           x="1034.848"
+           height="32"
+           width="2.304023"
+           id="rect5017"
+           style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(0,-1,0.68018722,0,343.07288,2080.362)"
+         id="g5019"
+         inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           y="1020.362"
+           x="1034"
+           height="32"
+           width="4"
+           id="rect5021"
+           style="opacity:1;fill:#ff8c00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5023"
+           width="2.304023"
+           height="32"
+           x="1034.848"
+           y="1020.362" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5025"
+       width="32"
+       height="32.000011"
+       x="1096"
+       y="924.362" />
+    <rect
+       y="924.362"
+       x="1032"
+       height="32.000011"
+       width="32"
+       id="rect5027"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5029"
+       width="32"
+       height="32.000011"
+       x="1064"
+       y="924.362" />
+    <rect
+       y="924.36188"
+       x="1128"
+       height="32.000011"
+       width="32"
+       id="rect5031"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5033"
+       width="32"
+       height="32.000011"
+       x="1160"
+       y="924.362" />
+    <rect
+       y="924.362"
+       x="1192"
+       height="32.000011"
+       width="32"
+       id="rect5035"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1255.9999,924.36199 0,14.0664 c -4.257,2.3246 -10.0857,7.3234 -16.8066,17.9336 l -15.1934,0 0,-32 32,0 z"
+       id="path5037" />
+    <circle
+       r="1.079258"
+       cy="939.49207"
+       cx="1044.6455"
+       id="circle5039"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5041"
+       cx="1071.6664"
+       cy="939.70496"
+       r="2.3126957" />
+    <circle
+       r="3.8544929"
+       cy="948.03088"
+       cx="1051.3134"
+       id="circle5043"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5045"
+       cx="1025.5264"
+       cy="937.55566"
+       r="1.079258" />
+    <circle
+       r="1.2334375"
+       cy="931.22205"
+       cx="1114.6675"
+       id="circle5047"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5049"
+       cx="1057.0516"
+       cy="929.90601"
+       r="2.1585159" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5051"
+       cx="1100.5929"
+       cy="946.90112"
+       r="2.4668753" />
+    <circle
+       r="2.1585159"
+       cy="936.81897"
+       cx="1140.6007"
+       id="circle5053"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="1.079258"
+       cy="931.62024"
+       cx="1041.1155"
+       id="circle5055"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5057"
+       cx="1109.6194"
+       cy="940.10693"
+       r="1.079258" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5059"
+       cx="1088.8005"
+       cy="936.75415"
+       r="1.079258" />
+    <circle
+       r="1.079258"
+       cy="939.52759"
+       cx="1145.3728"
+       id="circle5061"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5063"
+       cx="1190.6091"
+       cy="948.57117"
+       r="1.079258" />
+    <circle
+       r="3.7003131"
+       cy="932.78015"
+       cx="1203.7552"
+       id="circle5065"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5067"
+       cx="1236.4507"
+       cy="946.91956"
+       r="3.8544929" />
+    <circle
+       r="1.079258"
+       cy="950.84973"
+       cx="1133.1796"
+       id="circle5069"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5071"
+       cx="1197.6847"
+       cy="948.62061"
+       r="1.2334375" />
+    <circle
+       r="2.1585159"
+       cy="950.09839"
+       cx="1151.6364"
+       id="circle5073"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="2.4668753"
+       cy="948.94067"
+       cx="1175.6554"
+       id="circle5075"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5077"
+       cx="1168.6892"
+       cy="939.63831"
+       r="2.1585159" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5079"
+       cx="1076.9944"
+       cy="953.02454"
+       r="1.079258" />
+    <circle
+       r="1.079258"
+       cy="951.83093"
+       cx="1134.3264"
+       id="circle5081"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="1.079258"
+       cy="948.63403"
+       cx="1086.1113"
+       id="circle5083"
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5085"
+       cx="1230.3357"
+       cy="943.24475"
+       r="1.079258" />
+    <g
+       id="g5087"
+       transform="translate(0,-96.000011)">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#006400;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1079.7087,966.15425 c -2.3638,0 -4.2662,1.90247 -4.2662,4.26621 l 0,4.65432 0,19.7821 -4.0734,0 0,-16.87326 c 0,-2.04128 -1.6425,-3.68394 -3.6839,-3.68394 -2.0414,0 -3.6852,1.64266 -3.6852,3.68394 l 0,20.55846 0,1.45802 c 0,1.2334 0.9925,2.2259 2.2258,2.2259 l 9.2167,0 0,6.2071 0,11.9289 8.5336,0 0,-11.9289 0,-1.7456 7.4441,0 c 0.9866,0 1.8528,-0.4621 2.4248,-1.1719 0.6137,-0.6576 0.9913,-1.5386 0.9913,-2.5133 l 0,-14.35127 c 0,-2.04141 -1.6437,-3.6852 -3.6851,-3.6852 l -0.1941,0 c -2.0414,0 -3.684,1.64379 -3.684,3.6852 l 0,10.47206 -3.297,0 0,-24.04831 0,-4.65432 c 0,-2.36374 -1.9037,-4.26621 -4.2674,-4.26621 z"
+         id="path5089" />
+      <path
+         id="path5091"
+         d="m 1080.8723,964.89638 c -2.3637,0 -4.2662,1.90247 -4.2662,4.26621 l 0,4.65432 0,19.7821 -4.0734,0 0,-16.87326 c 0,-2.04134 -1.6425,-3.68394 -3.6839,-3.68394 -2.0414,0 -3.6852,1.6426 -3.6852,3.68394 l 0,20.55846 0,1.45806 c 0,1.23335 0.9925,2.22583 2.2258,2.22583 l 9.2167,0 0,6.2071 0,13.1868 8.5336,0 0,-13.1868 0,-1.7456 7.4441,0 c 0.9866,0 1.8528,-0.4621 2.4248,-1.1719 0.6137,-0.6576 0.9913,-1.5386 0.9913,-2.5133 l 0,-14.35124 c 0,-2.04141 -1.6438,-3.6852 -3.6852,-3.6852 l -0.194,0 c -2.0415,0 -3.684,1.64379 -3.684,3.6852 l 0,10.47206 -3.297,0 0,-24.04831 0,-4.65432 c 0,-2.36374 -1.9037,-4.26621 -4.2674,-4.26621 z"
+         style="opacity:1;fill:#9acd32;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5093"
+       transform="matrix(-0.29040956,0,0,0.29040956,1419.9493,632.31187)">
+      <path
+         id="path5095"
+         transform="translate(999.99994,-1347.638)"
+         d="m 73.697266,2267.0977 c -3.758285,0 -6.783204,3.0249 -6.783204,6.7832 l 0,7.4003 0,31.4532 -6.476562,0 0,-26.8282 c 0,-3.2456 -2.61163,-5.8574 -5.857422,-5.8574 -3.245791,0 -5.859375,2.6118 -5.859375,5.8574 l 0,32.6876 0,2.3183 c 0,1.961 1.578064,3.5391 3.539063,3.5391 l 14.654296,0 0,9.8691 0,18.9668 13.56836,0 0,-18.9668 0,-2.7754 11.835937,0 c 1.568708,0 2.945989,-0.7348 3.855469,-1.8633 0.975707,-1.0456 1.576172,-2.4464 1.576172,-3.9961 l 0,-22.8183 c 0,-3.2458 -2.613583,-5.8594 -5.859375,-5.8594 l -0.308594,0 c -3.245792,0 -5.857422,2.6136 -5.857422,5.8594 l 0,16.6504 -5.242187,0 0,-38.2364 0,-7.4003 c 0,-3.7583 -3.026872,-6.7832 -6.785156,-6.7832 z"
+         style="opacity:1;fill:#006400;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#9acd32;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1075.5474,917.4597 c -3.7583,0 -6.7832,3.0249 -6.7832,6.7832 l 0,7.4003 0,31.4532 -6.4766,0 0,-26.8282 c 0,-3.2457 -2.6116,-5.8574 -5.8574,-5.8574 -3.2458,0 -5.8594,2.6117 -5.8594,5.8574 l 0,32.6876 0,2.3183 c 0,1.961 1.5781,3.5391 3.5391,3.5391 l 14.6543,0 0,9.8691 0,20.9668 13.5683,0 0,-20.9668 0,-2.7754 11.836,0 c 1.5687,0 2.9459,-0.7348 3.8554,-1.8633 0.9757,-1.0456 1.5762,-2.4464 1.5762,-3.9961 l 0,-22.8183 c 0,-3.2458 -2.6136,-5.8594 -5.8594,-5.8594 l -0.3086,0 c -3.2458,0 -5.8574,2.6136 -5.8574,5.8594 l 0,16.6504 -5.2422,0 0,-38.2364 0,-7.4003 c 0,-3.7583 -3.0269,-6.7832 -6.7851,-6.7832 z"
+         id="path5097" />
+    </g>
+    <g
+       transform="translate(0,-89.613611)"
+       id="g5099">
+      <path
+         style="opacity:1;fill:#a0522d;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1151.3975,1007.8702 a 3.0526028,3.0526028 0 0 0 -3.0527,3.0527 3.0526028,3.0526028 0 0 0 3.0527,3.0527 3.0526028,3.0526028 0 0 0 2.0567,-0.8008 1.8533659,1.8533659 0 0 0 1.3476,0.5821 1.8533659,1.8533659 0 0 0 1.8516,-1.8535 1.8533659,1.8533659 0 0 0 -1.8516,-1.8536 1.8533659,1.8533659 0 0 0 -0.4629,0.061 3.0526028,3.0526028 0 0 0 -2.9414,-2.2402 z"
+         id="path5101"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5103"
+         d="m 1151.8337,1007.3436 a 3.0526028,3.0526028 0 0 0 -3.0528,3.0527 3.0526028,3.0526028 0 0 0 3.0528,3.0527 3.0526028,3.0526028 0 0 0 2.0566,-0.8008 1.8533659,1.8533659 0 0 0 1.3477,0.5821 1.8533659,1.8533659 0 0 0 1.8515,-1.8535 1.8533659,1.8533659 0 0 0 -1.8515,-1.8536 1.8533659,1.8533659 0 0 0 -0.4629,0.061 3.0526028,3.0526028 0 0 0 -2.9414,-2.2402 z"
+         style="opacity:1;fill:#f4a460;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(-2.8137817,8.980949)"
+       id="g5105">
+      <rect
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5107"
+         width="32"
+         height="32"
+         x="1162.8137"
+         y="883.38104" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:26.89792252px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1170.2668"
+         y="907.43304"
+         id="text5109"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5111"
+           x="1170.2668"
+           y="907.43304">P</tspan></text>
+    </g>
+    <g
+       transform="translate(-17.684387,8.980949)"
+       id="g5113">
+      <rect
+         y="883.38104"
+         x="1209.6843"
+         height="32"
+         width="32"
+         id="rect5115"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5117"
+         y="907.43304"
+         x="1217.1375"
+         style="font-style:normal;font-weight:normal;font-size:26.89792252px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="907.43304"
+           x="1217.1375"
+           id="tspan5119"
+           sodipodi:role="line">E</tspan></text>
+    </g>
+    <g
+       transform="translate(-30.088196,8.980949)"
+       id="g5121">
+      <rect
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5123"
+         width="32"
+         height="32"
+         x="1254.0881"
+         y="883.38104" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:26.89792252px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1261.5413"
+         y="907.43304"
+         id="text5125"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5127"
+           x="1261.5413"
+           y="907.43304">C</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#00bfff;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5129"
+       width="32"
+       height="32"
+       x="999.99994"
+       y="860.362" />
+    <rect
+       y="956.362"
+       x="999.99994"
+       height="32"
+       width="32"
+       id="rect5263"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/melt/Documents/GameProject/TestMenu/phaser-menu-system/game/assets/maps/tilesheet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
